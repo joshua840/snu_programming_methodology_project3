@@ -21,6 +21,19 @@
   - A) 네.
 - Q) 재료의 만족도나 유통기한은 모두 정수인가요?
   - A) 네.
+- Q) smart controller에서 음식이나 shelf를 옮겨주는 것은 어디에서 하는 기능인가요?
+  - A) stackFood / popFood 에서 합니다.
+- Q) 함수 파라미터나 리턴타입은 수정 가능한가요?
+  - A) 불가능합니다.
+- Q) 레포트 모든 내용을 영어로 작성해야 하나요?
+  - A) 네
+- Q) including pseudo codes 가 어떤 의미인가요?
+  - A) https://en.wikipedia.org/wiki/Pseudocode
+- Q) 
+- Q) 혼자 해도 되나요?
+  - A) 네
+- Q) 
+  - A) 
   
 # 정정
 - p23. position to pop: 12 -> x:12, y:0 (x, y 둘 다 출력해야 합니다.)
