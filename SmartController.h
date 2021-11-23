@@ -5,7 +5,7 @@
 class SmartController : public Controller
 {
 public:
-    SmartController(intPair size_, foodListType &food_list_) : Controller(size_, food_list_) {}
+    SmartController(intPair size_, foodListType &foodList_) : Controller(size_, foodList_) {}
 
     bool stackFood(const string, intPair, int);
     bool popFood(const string);
