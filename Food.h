@@ -10,7 +10,7 @@ public:
     Food() : name("null"), size(0, 0), exp(0) {}
     Food(string, intPair, int);
     int getExp() const { return exp; }
-    string getName() { return name; }
+    string getName() const { return name; }
     intPair getSize() const { return size; }
     friend bool operator>(const Food &, const Food &);
 
