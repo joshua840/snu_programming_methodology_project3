@@ -1,0 +1,7 @@
+tomatoPasta bacon 1 onion 1 pasta 1 tomato 1 / 7
+creamPasta bacon 1 milk 1 onion 1 pasta 1 / 8
+friedTomatoEgg egg 1 tomato 1 / 3
+englishBreakfast bacon 1 bread 1 egg 1 tomato 1 / 7
+sandwich bacon 1 bread 1 lettuce 1 tomato 1 / 6
+frenchToast egg 1 milk 1 bread 1 / 5
+salad lettuce 1 egg 1 tomato 1 / 4

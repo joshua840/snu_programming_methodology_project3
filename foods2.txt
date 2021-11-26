@@ -1,0 +1,13 @@
+bacon 2 1 3 2
+bacon 2 1 3 1
+bread 2 2 1 1
+bread 2 2 1 4
+egg 1 1 2 1
+egg 1 1 1 5
+lettuce 1 1 2 3
+milk 1 2 2 2
+onion 1 1 2 2
+pasta 2 1 1 5
+pasta 2 1 2 4
+tomato 1 1 2 2
+tomato 1 1 1 4
